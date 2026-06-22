@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "/register panipuriwala",
+        "/login panipuriwala",
         "I like to play Minecraft!"
       ]
     },
