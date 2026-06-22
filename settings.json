@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BLACKTIDEPIRATE-bVed.aternos.me",
-    "port": 15839,
-    "version": "1.21.1"
+    "ip": "Blacktide.aternos.me",
+    "port": 35815,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
