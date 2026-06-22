@@ -8,7 +8,7 @@
   "server": {
     "ip": "Blacktide.aternos.me",
     "port": 35815,
-    "version": "26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
