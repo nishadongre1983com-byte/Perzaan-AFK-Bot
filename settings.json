@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Slave",
     "password": "",
     "type": "offline"
   },
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "/register panipuriwala",
-        "/login panipuriwala",
+        "im gay",
+        "mikey is gay",
         "I like to play Minecraft!"
       ]
     },
